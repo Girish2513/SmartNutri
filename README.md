@@ -12,7 +12,6 @@ SmartNutri is a web-based nutrition tracking application that enables users to:
 - Get recipe recommendations based on dietary needs
 - Filter foods by nutritional tags (high/low proteins, carbohydrates, fats)
 
-Originally created as "BakeOff #2 - Food Identification" project by Daniel Fong, Mark Chen, and Riyya Hari Iyer.
 
 ## ✨ Features
 
