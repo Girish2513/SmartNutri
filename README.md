@@ -177,16 +177,6 @@ Contributions are welcome! If you'd like to improve SmartNutri:
 This project is open source and available under the MIT License.
 You are free to use, modify, and distribute this software.
 
-## 🙏 Credits
-
-**Original Authors (BakeOff #2 Project):**
-- Daniel Fong
-- Mark Chen
-- Riyya Hari Iyer
-
-**Maintained by:**
-- Girish Saana
-
 ## 💬 Contact
 
 Repository maintained by Girish Saana
